@@ -1,0 +1,9 @@
+audio.play_bitrate_non_metered_migrated=true
+audio.allow_downgrade=false
+audio.crossfade_v2=true
+audio.play_bitrate_enumeration=3
+ui.minimize_to_tray=true
+audio.play_bitrate_non_metered_enumeration=3
+ui.right_panel_content=2
+audio.normalize_v2=false
+audio.crossfade.time_v2=6935

@@ -1,0 +1,17 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+XCURSOR_THEME=Bibata-Modern-Ice
+XCURSOR_SIZE=11
+QT_QPA_PLATFORMTHEME=gtk3
+QT_QPA_PLATFORM="wayland;xcb"
+#QT_STYLE_OVERRIDE=kvantum
+BROWSER=firefox
+EDITOR=nano
+MOZ_ENABLE_WAYLAND=1
+_JAVA_AWT_WM_NONREPARENTING=1
+SDL_VIDEODRIVER=wayland
+GDK_BACKEND=wayland
+CLUTTER_BACKEND=wayland

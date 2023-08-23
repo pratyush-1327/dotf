@@ -1,0 +1,21 @@
+00:00:00.445303 VirtualBox GUI VM Selector Window 7.0.10 r158379 linux.amd64 (Aug 11 2023 12:19:51) release log
+00:00:00.445305 Log opened 2023-08-20T07:20:21.368972000Z
+00:00:00.445306 Build Type: release
+00:00:00.445307 OS Product: Linux
+00:00:00.445307 OS Release: 6.4.11-zen2-1-zen
+00:00:00.445308 OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Sat, 19 Aug 2023 15:38:10 +0000
+00:00:00.445324 DMI Product Name: VivoBook_ASUSLaptop X415JA_X415JA
+00:00:00.445328 DMI Product Version: 1.0       
+00:00:00.445331 Firmware type: UEFI
+00:00:00.445502 Secure Boot: Disabled
+00:00:00.445528 Host RAM: 7687MB (7.5GB) total, 6134MB (5.9GB) available
+00:00:00.445530 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.445530 Process ID: 62348
+00:00:00.445531 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.445556 Qt version: 5.15.10
+00:00:00.446244 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.450487 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.450508 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.988868 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x39 x 1920x1041
+00:01:30.577237 GUI: UICommon: Handling aboutToQuit request..
+00:01:31.957932 GUI: UICommon: aboutToQuit request handled!

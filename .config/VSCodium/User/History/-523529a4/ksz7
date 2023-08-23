@@ -1,0 +1,64 @@
+#!/usr/bin/bash
+swaylockd \
+--daemonize \
+--show-failed-attempts \
+--clock \
+--effect-blur=5x5 \
+--color=1f1d2e80 \
+--font="Inter" \
+--indicator \
+--indicator-radius=200 \
+--indicator-thickness=20 \
+--line-color=1f1d2e \
+--ring-color=191724 \
+--inside-color=1f1d2e \
+--key-hl-color=eb6f92 \
+--separator-color=00000000 \
+--text-color=e0def4 \
+--text-caps-lock-color="" \
+--line-ver-color=eb6f92 \
+--ring-ver-color=eb6f92 \
+--inside-ver-color=1f1d2e \
+--text-ver-color=e0def4 \
+--ring-wrong-color=31748f \
+--text-wrong-color=31748f \
+--inside-wrong-color=1f1d2e \
+--inside-clear-color=1f1d2e \
+--text-clear-color=e0def4 \
+--ring-clear-color=9ccfd8 \
+--line-clear-color=1f1d2e \
+--line-wrong-color=1f1d2e \
+--bs-hl-color=31748f \
+--grace=2 \
+--grace-no-mouse \
+--grace-no-touch \
+--datestr="%d.%m" \
+--fade-in="0.1" \
+--ignore-empty-password &
+
+# sleep 2; ~/.config/hypr/scripts/screenshot_full
+
+#!/usr/bin/bash
+swaylockd \
+--screenshots \
+--indicator \
+--clock \
+--inside-wrong-color f38ba8  \
+--ring-wrong-color 161925  \
+--inside-clear-color a6e3a1 \
+--ring-clear-color 161925 \
+--inside-ver-color 89b4fa \
+--ring-ver-color 161925 \
+--text-color  f5c2e7 \
+--indicator-radius 100 \
+--indicator-thickness 5 \
+--effect-blur 8x5 \
+--effect-vignette 0.4:0.4 \
+--ring-color 161925 \
+--key-hl-color f5c2e7 \
+--line-color 313244 \
+--inside-color 00161925 \
+--separator-color 00000000 \
+--fade-in 0.2 &
+
+# sleep 2; ~/.config/hypr/scripts/screenshot_full

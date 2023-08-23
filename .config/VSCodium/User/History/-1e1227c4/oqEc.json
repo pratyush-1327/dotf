@@ -1,0 +1,20 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.colorTheme": "Dracula",
+  "editor.mouseWheelZoom": true,
+  "explorer.confirmDelete": false,
+  "background.enabled": true,
+  "background.loop": false,
+  "background.useDefault": false,
+  "background.useFront": false,
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "background-position": "center",
+    "background-size": "cover",
+    "background-repeat": "no-repeat",
+    "opacity": 0.1
+  },
+  "background.customImages": ["https://w.wallhaven.cc/full/yx/wallhaven-yxe85x.jpg"
+  ],
+}

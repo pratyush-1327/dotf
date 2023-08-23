@@ -1,0 +1,39 @@
+2023/08/23-11:10:22.158 5a2 Reusing MANIFEST /home/pratyush/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-033918
+2023/08/23-11:10:22.168 5a2 Recovering log #37542
+2023/08/23-11:10:22.204 5a2 Reusing old log /home/pratyush/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/037542.log 
+2023/08/23-11:10:52.239 68d Level-0 table #37555: started
+2023/08/23-11:10:52.266 68d Level-0 table #37555: 999703 bytes OK
+2023/08/23-11:10:52.279 68d Delete type=0 #37542
+2023/08/23-11:10:52.321 68f Compacting 1@1 + 1@2 files
+2023/08/23-11:10:52.343 68f Generated table #37556@1: 21236 keys, 486547 bytes
+2023/08/23-11:10:52.344 68f Generated table #37557@1: 24 keys, 1651 bytes
+2023/08/23-11:10:52.344 68f Compacted 1@1 + 1@2 files => 488198 bytes
+2023/08/23-11:10:52.345 68f compacted to: files[ 0 0 2 16 0 0 0 ]
+2023/08/23-11:10:52.370 68f Compacting 1@2 + 11@3 files
+2023/08/23-11:10:52.435 68f Generated table #37558@2: 85346 keys, 2234972 bytes
+2023/08/23-11:10:52.534 68f Generated table #37559@2: 99549 keys, 2252416 bytes
+2023/08/23-11:10:52.578 68f Generated table #37560@2: 37711 keys, 2279693 bytes
+2023/08/23-11:10:52.611 68f Generated table #37561@2: 27694 keys, 2197802 bytes
+2023/08/23-11:10:52.641 68f Generated table #37562@2: 3525 keys, 2178604 bytes
+2023/08/23-11:10:52.665 68f Generated table #37563@2: 4119 keys, 2159900 bytes
+2023/08/23-11:10:52.704 68f Generated table #37564@2: 27360 keys, 2252776 bytes
+2023/08/23-11:10:52.744 68f Generated table #37565@2: 27528 keys, 2229103 bytes
+2023/08/23-11:10:52.779 68f Generated table #37566@2: 63122 keys, 2200973 bytes
+2023/08/23-11:10:52.825 68f Generated table #37567@2: 100213 keys, 2251224 bytes
+2023/08/23-11:10:52.826 68f Generated table #37568@2: 1687 keys, 37744 bytes
+2023/08/23-11:10:52.826 68f Compacted 1@2 + 11@3 files => 22275207 bytes
+2023/08/23-11:10:52.828 68f compacted to: files[ 0 0 1 16 0 0 0 ]
+2023/08/23-11:10:52.828 68f Delete type=2 #37530
+2023/08/23-11:10:52.828 68f Delete type=2 #37539
+2023/08/23-11:10:52.828 68f Delete type=2 #37540
+2023/08/23-11:10:52.828 68f Delete type=2 #37544
+2023/08/23-11:10:52.828 68f Delete type=2 #37545
+2023/08/23-11:10:52.828 68f Delete type=2 #37546
+2023/08/23-11:10:52.828 68f Delete type=2 #37547
+2023/08/23-11:10:52.828 68f Delete type=2 #37548
+2023/08/23-11:10:52.828 68f Delete type=2 #37549
+2023/08/23-11:10:52.828 68f Delete type=2 #37550
+2023/08/23-11:10:52.828 68f Delete type=2 #37551
+2023/08/23-11:10:52.828 68f Delete type=2 #37552
+2023/08/23-11:10:52.828 68f Delete type=2 #37555
+2023/08/23-11:10:52.828 68f Delete type=2 #37556

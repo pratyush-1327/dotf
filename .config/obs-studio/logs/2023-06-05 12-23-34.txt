@@ -1,0 +1,179 @@
+12:23:34.971: Platform: Wayland
+12:23:34.971: CPU Name: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+12:23:34.971: CPU Speed: 3400.000MHz
+12:23:34.971: Physical Cores: 2, Logical Cores: 4
+12:23:34.971: Physical Memory: 7687MB Total, 2466MB Free
+12:23:34.971: Kernel Version: Linux 6.3.5-zen1-1-zen
+12:23:34.971: Distribution: EndeavourOS Unknown
+12:23:34.971: Desktop Environment: Hyprland (hyprland)
+12:23:34.971: Session Type: wayland
+12:23:34.972: Qt Version: 6.5.1 (runtime), 6.5.1 (compiled)
+12:23:34.972: Portable mode: false
+12:23:35.016: OBS 29.1.1-2 (linux)
+12:23:35.016: ---------------------------------
+12:23:35.016: ---------------------------------
+12:23:35.016: audio settings reset:
+12:23:35.016: 	samples per sec: 48000
+12:23:35.016: 	speakers:        2
+12:23:35.016: 	max buffering:   960 milliseconds
+12:23:35.016: 	buffering type:  dynamically increasing
+12:23:35.019: ---------------------------------
+12:23:35.019: Initializing OpenGL...
+12:23:35.019: Using EGL/Wayland
+12:23:35.054: Initialized EGL 1.5
+12:23:35.068: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics (ICL GT1)
+12:23:35.068: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.1.1, shading language 4.60
+12:23:35.206: ---------------------------------
+12:23:35.206: video settings reset:
+12:23:35.206: 	base resolution:   1920x1080
+12:23:35.206: 	output resolution: 1920x1080
+12:23:35.206: 	downscale filter:  Bicubic
+12:23:35.206: 	fps:               30/1
+12:23:35.206: 	format:            NV12
+12:23:35.206: 	YUV mode:          Rec. 709/Partial
+12:23:35.206: NV12 texture support not available
+12:23:35.206: P010 texture support not available
+12:23:35.213: Audio monitoring device:
+12:23:35.213: 	name: Default
+12:23:35.213: 	id: default
+12:23:35.213: ---------------------------------
+12:23:35.220: Failed to load 'en-US' text for module: 'decklink-captions.so'
+12:23:35.227: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+12:23:35.234: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12:23:35.234: Failed to initialize module 'decklink.so'
+12:23:35.245: Failed to load 'en-GB' text for module: 'frontend-tools.so'
+12:23:35.331: Failed to load 'en-GB' text for module: 'linux-alsa.so'
+12:23:35.338: Failed to load 'en-GB' text for module: 'linux-capture.so'
+12:23:35.347: Failed to load 'en-GB' text for module: 'linux-jack.so'
+12:23:35.355: Failed to load 'en-GB' text for module: 'linux-pipewire.so'
+12:23:35.355: [pipewire] Available captures:
+12:23:35.355: [pipewire]     - Desktop capture
+12:23:35.363: Failed to load 'en-GB' text for module: 'linux-pulseaudio.so'
+12:23:35.374: v4l2loopback not installed, virtual camera disabled
+12:23:35.397: VAAPI: API version 1.18
+12:23:35.397: FFmpeg VAAPI H264 encoding supported
+12:23:35.398: FFmpeg VAAPI HEVC encoding supported
+12:23:35.415: Failed to load 'en-GB' text for module: 'obs-libfdk.so'
+12:23:35.444: [obs-vaapi] version: 0.2.0, gst-runtime: 1.22.3
+12:23:35.982: [obs-vaapi] H.264 encoder - found
+12:23:35.982: [obs-vaapi] H.264 encoder (low power) - found
+12:23:35.982: [obs-vaapi] H.265 encoder - found
+12:23:35.982: [obs-vaapi] H.265 encoder (low power) - found
+12:23:35.982: [obs-vaapi] AV1 encoder - not found
+12:23:35.982: [obs-vaapi] AV1 encoder (low power) - not found
+12:23:35.982: [obs-vaapi] H.264 encoder (legacy) - found
+12:23:35.982: [obs-vaapi] H.265 encoder (legacy) - found
+12:23:35.990: Failed to load 'en-GB' text for module: 'obs-vst.so'
+12:23:36.007: Failed to load 'en-GB' text for module: 'rtmp-services.so'
+12:23:36.017: ---------------------------------
+12:23:36.017:   Loaded Modules:
+12:23:36.017:     text-freetype2.so
+12:23:36.017:     rtmp-services.so
+12:23:36.017:     obs-x264.so
+12:23:36.017:     obs-vst.so
+12:23:36.017:     obs-vaapi.so
+12:23:36.017:     obs-transitions.so
+12:23:36.017:     obs-outputs.so
+12:23:36.017:     obs-libfdk.so
+12:23:36.017:     obs-filters.so
+12:23:36.017:     obs-ffmpeg.so
+12:23:36.017:     linux-v4l2.so
+12:23:36.017:     linux-pulseaudio.so
+12:23:36.017:     linux-pipewire.so
+12:23:36.017:     linux-jack.so
+12:23:36.017:     linux-capture.so
+12:23:36.017:     linux-alsa.so
+12:23:36.017:     image-source.so
+12:23:36.017:     frontend-tools.so
+12:23:36.017:     decklink-output-ui.so
+12:23:36.017:     decklink-captions.so
+12:23:36.017: ---------------------------------
+12:23:36.017: ==== Startup complete ===============================================
+12:23:36.062: All scene data cleared
+12:23:36.062: ------------------------------------------------
+12:23:36.070: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.71) 15.0.0'
+12:23:36.070: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+12:23:36.070: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+12:23:36.070: [Loaded global audio device]: 'Desktop Audio'
+12:23:36.070: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.71) 15.0.0'
+12:23:36.070: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+12:23:36.070: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+12:23:36.070: [Loaded global audio device]: 'Mic/Aux'
+12:23:36.070: PipeWire initialized
+12:23:36.072: Switched to scene 'Scene'
+12:23:36.072: ------------------------------------------------
+12:23:36.072: Loaded scenes:
+12:23:36.072: - scene 'Scene':
+12:23:36.072:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+12:23:36.072: ------------------------------------------------
+12:23:36.115: [pipewire] Screencast session created
+12:23:36.659: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+12:23:36.659: 
+12:23:41.395: [pipewire] Asking for desktop
+12:23:41.410: [pipewire] desktop selected, setting up screencast
+12:23:41.416: [pipewire] Server version: 0.3.71
+12:23:41.416: [pipewire] Library version: 0.3.71
+12:23:41.416: [pipewire] Header version: 0.3.71
+12:23:41.416: [pipewire] Created stream 0x55ca07c4bb20
+12:23:41.416: [pipewire] Stream 0x55ca07c4bb20 state: "connecting" (error: none)
+12:23:41.416: [pipewire] Playing stream 0x55ca07c4bb20
+12:23:41.416: [pipewire] Stream 0x55ca07c4bb20 state: "paused" (error: none)
+12:23:41.418: [pipewire] Negotiated format:
+12:23:41.418: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+12:23:41.418: [pipewire]     Modifier: 0x0
+12:23:41.418: [pipewire]     Size: 1920x1080
+12:23:41.418: [pipewire]     Framerate: 0/1
+12:23:41.420: [pipewire] Negotiated format:
+12:23:41.420: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+12:23:41.420: [pipewire]     Modifier: 0x100000000000004
+12:23:41.420: [pipewire]     Size: 1920x1080
+12:23:41.420: [pipewire]     Framerate: 0/1
+12:23:41.423: [pipewire] Stream 0x55ca07c4bb20 state: "streaming" (error: none)
+12:25:04.410: Settings changed (general, outputs)
+12:25:04.410: ------------------------------------------------
+12:25:24.861: Settings changed (outputs)
+12:25:24.861: ------------------------------------------------
+12:25:43.180: Settings changed (stream 1, outputs)
+12:25:43.180: ------------------------------------------------
+12:28:15.719: [obs-vaapi] qos: 0
+12:28:15.719: [obs-vaapi] min-force-key-unit-interval: 0
+12:28:15.719: [obs-vaapi] key-int-max: 0
+12:28:15.719: [obs-vaapi] b-frames: 0
+12:28:15.719: [obs-vaapi] i-frames: 0
+12:28:15.719: [obs-vaapi] ref-frames: 3
+12:28:15.719: [obs-vaapi] b-pyramid: 0
+12:28:15.719: [obs-vaapi] num-slices: 1
+12:28:15.719: [obs-vaapi] min-qp: 1
+12:28:15.719: [obs-vaapi] max-qp: 51
+12:28:15.719: [obs-vaapi] qpi: 26
+12:28:15.719: [obs-vaapi] qpp: 26
+12:28:15.719: [obs-vaapi] qpb: 26
+12:28:15.719: [obs-vaapi] trellis: 0
+12:28:15.719: [obs-vaapi] mbbrc: disabled
+12:28:15.719: [obs-vaapi] bitrate: 0
+12:28:15.719: [obs-vaapi] target-percentage: 66
+12:28:15.719: [obs-vaapi] target-usage: 4
+12:28:15.719: [obs-vaapi] rate-control: cqp
+12:28:15.719: [obs-vaapi] cpb-size: 0
+12:28:15.719: [obs-vaapi] aud: 0
+12:28:15.719: [obs-vaapi] num-tile-cols: 1
+12:28:15.719: [obs-vaapi] num-tile-rows: 1
+12:28:15.719: [obs-vaapi] codec: hevc, 1920x1080@30/1, format: 2 
+12:28:15.725: ---------------------------------
+12:28:15.725: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+12:28:15.725: 
+12:28:15.732: ==== Recording Start ===============================================
+12:28:15.732: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/pratyush/Videos/2023-06-05_12-28-15.mkv'...
+12:28:15.736: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+12:28:15.796: [obs-vaapi] Internal data stream error.
+12:32:26.534: output adv_file_output paused
+12:32:31.383: ==== Shutting down ==================================================
+12:32:31.386: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+12:32:31.387: pulse-input: Got 21410 packets with 25692000 frames
+12:32:31.387: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+12:32:31.387: pulse-input: Got 21411 packets with 25693200 frames
+12:32:31.390: [pipewire] Stream 0x55ca07c4bb20 state: "paused" (error: none)
+12:32:31.390: [pipewire] Stream 0x55ca07c4bb20 state: "unconnected" (error: none)
+12:32:31.422: All scene data cleared
+12:32:31.422: ------------------------------------------------
+12:32:31.423: output adv_file_output unpaused
